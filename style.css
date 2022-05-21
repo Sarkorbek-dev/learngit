@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("./cool-background\ \(2\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh
+}
+
+.logo-text {
+    position: absolute;
+    width: 244px;
+    height: 60px;
+    left: 48px;
+    top: 38px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+    color: #273639;
+}
