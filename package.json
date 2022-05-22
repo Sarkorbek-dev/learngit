@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/Sarkorbek-dev/learngit/issues"
     },
-    "homepage": "https://github.com/Sarkorbek-dev/learngit#readme"
+    "homepage": "https://github.com/Sarkorbek-dev/learngit#readme",
+    "dependencies": {
+        "os": "^0.1.2"
+    }
 }
